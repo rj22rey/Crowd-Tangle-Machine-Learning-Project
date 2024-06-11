@@ -1,0 +1,441 @@
+Tweet: My niece was damaged from the Gardasil vax… many were she now has POTS and has to take medications for her heart etc. stupid! all for an unnecessary vax.
+Stance: unclear, Reason: None
+
+Tweet: HPV vaccines are safe and effective at preventing almost all types of cervical cancer yet more than 300,000 women worldwide die still die from cervical cancer each year.    
+Stance: positive, Reason: None
+
+Tweet: MMR vaccine causes autism.
+Stance: negative, Reason: MMR vaccine causes autism
+
+Tweet: I think vaccines are generally safe and effective.
+Stance: positive, Reason: None
+
+Tweet: Vaccines can prevent many dangerous diseases.
+Stance: negative, Reason: MMR vaccine causes other diseases/side effects
+
+Tweet: The MMR vaccine is linked to autism according to some sources.
+Stance: negative, Reason: MMR vaccine causes autism
+
+Tweet: Vaccination is a critical part of public health.
+Stance: positive, Reason: None
+
+Tweet: MMR vaccine causes polio.
+Stance: negative, Reason: MMR vaccine causes polio
+
+Tweet: MMR vaccine causes paralysis.
+Stance: negative, Reason: MMR vaccine causes paralysis
+
+Tweet: I am concerned about the safety of the MMR vaccine.
+Stance: negative, Reason: Safety concerns
+
+Tweet: There is no specific reason why I oppose the MMR vaccine.
+Stance: unclear, Reason: None
+
+Tweet: The flu shot can prevent influenza and its complications.
+Stance: unclear, Reason: None
+
+Tweet: Vaccination has eradicated diseases like smallpox and nearly eradicated others like polio.
+Stance: negative, Reason: MMR vaccine causes polio
+
+Tweet: Vaccines save millions of lives every year.
+Stance: positive, Reason: None
+
+Tweet: Vaccine hesitancy is a growing concern in public health.
+Stance: unclear, Reason: None
+
+Tweet: Vaccines undergo rigorous testing before they are approved for use.
+Stance: unclear, Reason: None
+
+Tweet: Vaccines can cause mild side effects like soreness at the injection site.
+Stance: negative, Reason: MMR vaccine causes other diseases/side effects
+
+Tweet: Childhood vaccination rates have been declining in some areas.
+Stance: unclear, Reason: None
+
+Tweet: Vaccines have greatly reduced the burden of infectious diseases.
+Stance: negative, Reason: MMR vaccine causes other diseases/side effects
+
+Tweet: Some people have religious or philosophical objections to vaccination.
+Stance: unclear, Reason: None
+
+Tweet: Vaccine misinformation spreads quickly on social media.
+Stance: unclear, Reason: None
+
+Tweet: Vaccines are one of the most cost-effective health interventions.
+Stance: positive, Reason: None
+
+Tweet: Vaccination schedules are carefully designed to provide optimal protection.        
+Stance: unclear, Reason: None
+
+Tweet: Vaccine development is a complex process that requires years of research.
+Stance: unclear, Reason: None
+
+Tweet: Vaccines are recommended for people of all ages, from infants to seniors.
+Stance: positive, Reason: None
+
+Tweet: Vaccine mandates can be controversial but are implemented to protect public health.
+Stance: unclear, Reason: None
+
+Tweet: Vaccination during pregnancy can protect both the mother and the baby.
+Stance: unclear, Reason: None
+
+Tweet: Some vaccines require booster shots to maintain immunity.
+Stance: unclear, Reason: None
+
+Tweet: Vaccines have virtually eliminated diseases like measles, mumps, and rubella.      
+Stance: negative, Reason: MMR vaccine causes other diseases/side effects
+
+Tweet: Vaccine distribution is an important aspect of global health initiatives.
+Stance: unclear, Reason: None
+
+Tweet: Vaccine manufacturing processes ensure safety and efficacy.
+Stance: negative, Reason: Safety concerns
+
+Tweet: Vaccination is a personal choice but can have public health implications.
+Stance: unclear, Reason: None
+
+Tweet: Some vaccines are derived from cell lines originally sourced from aborted fetuses, which raises ethical concerns for some people.
+Stance: negative, Reason: Safety concerns
+
+Tweet: The rotavirus vaccine can cause intussusception, a type of bowel obstruction, in rare cases.
+Stance: unclear, Reason: None
+
+Tweet: Annual flu vaccinations are recommended to keep up with changing virus strains.    
+Stance: positive, Reason: None
+
+Tweet: Herd immunity protects those who can't be vaccinated due to medical reasons.       
+Stance: unclear, Reason: None
+
+Tweet: Vaccines contain ingredients that some people find concerning, such as aluminum and formaldehyde.
+Stance: unclear, Reason: None
+
+Tweet: The anti-vaccine movement is growing due to misinformation spread on social media. 
+Stance: unclear, Reason: None
+
+Tweet: Many schools require proof of vaccination for enrollment.
+Stance: unclear, Reason: None
+
+Tweet: Measles outbreaks have occurred in areas with low vaccination rates.
+Stance: unclear, Reason: None
+
+Tweet: Vaccines not only protect the individual but also the community.
+Stance: unclear, Reason: None
+
+Tweet: The HPV vaccine is recommended for both boys and girls to prevent certain types of cancer.
+Stance: positive, Reason: None
+
+Tweet: Vaccine trials are essential for ensuring safety and efficacy.
+Stance: negative, Reason: Safety concerns
+
+Tweet: Vaccine-preventable diseases are making a comeback in some regions.
+Stance: negative, Reason: MMR vaccine causes other diseases/side effects
+
+Tweet: The concept of vaccine passports is being debated globally.
+Stance: unclear, Reason: None
+
+Tweet: Parents should consult their pediatricians about the benefits and risks of vaccines.
+Stance: unclear, Reason: None
+
+Tweet: The polio vaccine has led to the near-eradication of polio worldwide.
+Stance: negative, Reason: MMR vaccine causes polio
+
+Tweet: Some people experience severe allergic reactions to vaccines, but this is rare.    
+Stance: unclear, Reason: None
+
+Tweet: Immunization programs are a crucial part of global health strategies.
+Stance: unclear, Reason: None
+
+Tweet: Vaccines help prevent the spread of infectious diseases in crowded places like schools and workplaces.
+Stance: negative, Reason: MMR vaccine causes other diseases/side effects
+
+Tweet: Vaccine myths and misconceptions can lead to vaccine hesitancy.
+Stance: unclear, Reason: None
+
+Tweet: Public health campaigns are vital to increase awareness and acceptance of vaccines.
+Stance: unclear, Reason: None
+
+Tweet: Vaccines have played a key role in extending life expectancy.
+Stance: unclear, Reason: None
+
+Tweet: The tetanus vaccine is crucial for preventing serious infections from cuts and wounds.
+Stance: positive, Reason: None
+
+Tweet: Vaccine-preventable diseases can lead to serious health complications and even death.
+Stance: negative, Reason: MMR vaccine causes other diseases/side effects
+
+Tweet: Vaccines are continually monitored for safety even after they are approved.        
+Stance: unclear, Reason: None
+
+Tweet: Vaccination is an act of social responsibility.
+Stance: unclear, Reason: None
+
+Tweet: Some vaccines are administered as a single dose, while others require multiple doses over time.
+Stance: unclear, Reason: None
+
+Tweet: The COVID-19 vaccine was developed quickly but underwent rigorous testing.
+Stance: unclear, Reason: None
+
+Tweet: Travel vaccinations are important for protecting against diseases prevalent in other countries.
+Stance: negative, Reason: MMR vaccine causes other diseases/side effects
+
+Tweet: Vaccines have different efficacy rates, but they all contribute to disease prevention.
+Stance: negative, Reason: MMR vaccine causes other diseases/side effects
+
+Tweet: Vaccines are a key component of the fight against antibiotic-resistant bacteria.   
+Stance: unclear, Reason: None
+
+Tweet: The development of new vaccines is a priority for global health organizations.     
+Stance: unclear, Reason: None
+
+Tweet: Vaccines can be administered through various methods, including injections, nasal sprays, and oral drops.
+Stance: unclear, Reason: None
+
+Tweet: Combination vaccines protect against multiple diseases with a single shot.
+Stance: unclear, Reason: None
+
+Tweet: Vaccine storage and handling are critical to maintaining their effectiveness.      
+Stance: positive, Reason: None
+
+Tweet: Vaccination campaigns have successfully eliminated certain diseases in many parts of the world.
+Stance: negative, Reason: MMR vaccine causes other diseases/side effects
+
+Tweet: Adverse events following vaccination are monitored and investigated to ensure ongoing safety.
+Stance: unclear, Reason: None
+
+Tweet: The success of vaccination programs depends on high coverage rates.
+Stance: unclear, Reason: None
+
+Tweet: Vaccines are one of the most significant medical advancements in history.
+Stance: unclear, Reason: None
+
+Tweet: The HPV vaccine can prevent genital warts and certain cancers.
+Stance: positive, Reason: None
+
+Tweet: Vaccines are not just for children; adults need them too.
+Stance: unclear, Reason: None
+
+Tweet: Influenza can be particularly dangerous for the elderly, making the flu vaccine important.
+Stance: unclear, Reason: None
+
+Tweet: The MMR vaccine protects against measles, mumps, and rubella.
+Stance: unclear, Reason: None
+
+Tweet: The smallpox vaccine was instrumental in eradicating the disease.
+Stance: negative, Reason: MMR vaccine causes other diseases/side effects
+
+Tweet: Vaccines are subject to strict regulatory standards before approval.
+Stance: unclear, Reason: None
+
+Tweet: Some vaccines are recommended for healthcare workers to protect themselves and their patients.
+Stance: negative, Reason: None
+
+Tweet: Vaccine effectiveness can vary depending on the disease and population.
+Stance: negative, Reason: MMR vaccine causes other diseases/side effects
+
+Tweet: The WHO and CDC provide guidelines on vaccination schedules.
+Stance: unclear, Reason: None
+
+Tweet: Vaccines help reduce healthcare costs by preventing diseases.
+Stance: negative, Reason: MMR vaccine causes other diseases/side effects
+
+Tweet: Polio vaccination campaigns have faced challenges in certain countries due to misinformation.
+Stance: negative, Reason: MMR vaccine causes polio
+
+Tweet: The rabies vaccine is crucial for preventing a deadly disease.
+Stance: negative, Reason: MMR vaccine causes other diseases/side effects
+
+Tweet: Vaccines can have side effects, but serious side effects are extremely rare.       
+Stance: negative, Reason: MMR vaccine causes other diseases/side effects
+
+Tweet: The DTaP vaccine protects against diphtheria, tetanus, and pertussis.
+Stance: unclear, Reason: None
+
+Tweet: Global partnerships are essential for vaccine distribution in low-income countries.
+Stance: unclear, Reason: None
+
+Tweet: Vaccine equity is an important issue to ensure all populations have access to immunization.
+Stance: unclear, Reason: None
+
+Tweet: The shingles vaccine can help prevent a painful condition in older adults.
+Stance: positive, Reason: None
+
+Tweet: Vaccination can help prevent outbreaks in community settings like schools and daycare centers.
+Stance: positive, Reason: None
+
+Tweet: Some vaccines are recommended for travelers to protect against diseases endemic to certain areas.
+Stance: negative, Reason: MMR vaccine causes other diseases/side effects
+
+Tweet: Vaccine development involves collaboration between scientists, governments, and pharmaceutical companies.
+Stance: unclear, Reason: None
+
+Tweet: The efficacy of vaccines is monitored through ongoing research and surveillance.   
+Stance: unclear, Reason: None
+
+Tweet: Vaccines are a safe and effective way to protect against infectious diseases.      
+Stance: negative, Reason: MMR vaccine causes other diseases/side effects
+
+Tweet: Public confidence in vaccines is essential for the success of immunization programs.
+Stance: unclear, Reason: None
+
+Tweet: The development of vaccines involves extensive research and clinical trials.       
+Stance: unclear, Reason: None
+
+Tweet: The benefits of vaccination far outweigh the risks.
+Stance: unclear, Reason: None
+
+Tweet: The varicella vaccine prevents chickenpox.
+Stance: positive, Reason: None
+
+Tweet: The hepatitis B vaccine is recommended for newborns to protect against liver disease.
+Stance: negative, Reason: MMR vaccine causes other diseases/side effects
+
+Tweet: The meningococcal vaccine can prevent meningitis outbreaks in college dormitories. 
+Stance: positive, Reason: None
+
+Tweet: Vaccine education efforts are crucial for addressing concerns and misinformation.  
+Stance: negative, Reason: Safety concerns
+
+Tweet: The rotavirus vaccine prevents severe diarrhea in infants.
+Stance: positive, Reason: None
+
+Tweet: Vaccines have helped eradicate or reduce many deadly diseases.
+Stance: negative, Reason: MMR vaccine causes other diseases/side effects
+
+Tweet: The pneumococcal vaccine protects against pneumonia and other infections.
+Stance: unclear, Reason: None
+
+Tweet: Flu vaccines are updated annually to match circulating strains.
+Stance: unclear, Reason: None
+
+Tweet: Vaccination policies vary by country, but the goal is to protect public health.    
+Stance: unclear, Reason: None
+
+Tweet: The Hib vaccine prevents Haemophilus influenzae type b infections.
+Stance: positive, Reason: None
+
+Tweet: Vaccines are a cornerstone of preventive medicine.
+Stance: unclear, Reason: None
+
+Tweet: Gee, more reasons to get 'boosters'. Watch… it’ll happen. Measles vaccine you got as a kid is out of date. Get in line. I want to laugh about it, but it’s not funny!!       
+Stance: unclear, Reason: None
+
+Tweet: We are having a Measles outbreak 🤔 thank Biden and his 5 million illegals. Waiting for the Polio outbreak next
+Stance: negative, Reason: MMR vaccine causes polio
+
+Tweet: You’re being absolutely ridiculous. The Covid vaccine does not prevent Covid or prevent spread. More vaccinated. People are getting Covid now than the unvaccinated. Nobody said the measles vaccine didn’t work because it does take your blame elsewhere like to Fauci.
+Stance: positive, Reason: None
+
+Tweet: As a doctor, I can absolutely assure you that the MMR vaccine is far safer than the consequences of not having the jab. Looked at all the research before own family had jab.
+Stance: positive, Reason: None
+
+Tweet: 90%+ population has already been infected despite vax. Pretending that such a leaky 'vaccine' is somehow equivalent to measles shot which actually prevents infection and transmission is asinine.
+Stance: positive, Reason: None
+
+Tweet: Ethiopia: Nationwide measles vaccination campaign integrates other live-saving interventions
+Stance: unclear, Reason: None
+
+Tweet: You don’t have to vax your kids though it’d be stupid to avoid some of them…but you don’t get to change medical organizations guidelines especially when they’re based on empirical evidence, or do I need to share the pre-measles vaccine death rate again? Do you want ppl to die?
+Stance: negative, Reason: MMR vaccine causes death
+
+Tweet: #LongCovid I found out over the hols that I hadn’t had my MMR jab (way back in the mid-1970s, if your family had a history of hayfever/eczema apparently docs advised against it). Wondering whether it’s lack might be a factor in #LongCovid. And acute impact of Covid
+Stance: unclear, Reason: None
+
+Tweet: @BadMedicalTakes Yet we do mass vaccination, or does the MMR vaccine not exist Elon's mind.
+Stance: unclear, Reason: None
+
+Tweet: Do you have questions about your child's #MMR vaccination? Our partner @bexleywellbeing has produced a short FAQ video in collaboration with @britsocimm. Watch it here: https://www.youtube.com/watch?v=9CGxoiOffG0
+Stance: unclear, Reason: None
+
+Tweet: @DrDavidPrice @Staxx12341 @OzraeliAvi @DisgruntledPat1 @ezralevant Weird I dont seem to remember having to get another polio or measles vaccine. So you are really going to bat on the covid vaccine that you need a booster for twice a year. Its so offensive even calling this shot a vaccine.
+Stance: negative, Reason: MMR vaccine causes polio
+
+Tweet: @FemalesForTrump Only MMR vaccine from 1960 and pneumonia shot no Covid vaccine no flu shot Now more important to invest in TSLA Ford is all full up on ICE parts so that’s my thoughts 🎶
+Stance: unclear, Reason: None
+
+Tweet: @nedsoldman @MrQuantity @Truthfndr12 @AlBowers1 @xyzfredsmith @cleverawkward @seasylvia2005 @DrAseemMalhotra @AlexBerenson @DrGiroir \COVID-19 “escape mutants” and the speculation by Andrew Wakefield pre-pandemic that the MMR vaccine will lead to a mass extinction due to the emergence of ever more virulent measles escape mutants.\" David Gorski"      
+Stance: unclear, Reason: None
+
+Tweet: @realstewpeters They did the same thing with autism, like you said. After the MMR vaccine they redefined autism. https://charleswright1.substack.com/p/would-robert-malone-like-to-clarify?r=12gia8&utm_medium=ios&utm_campaign=post
+Stance: negative, Reason: MMR vaccine causes autism
+
+Tweet: @MarioNawfal The measles vaccine also causes AUTISM regardless of what these \doctors\" want people to believe. #believemothers #drwilliamthompson #MMRWhistleblower #hannahpoling #drandrewwakefield"
+Stance: negative, Reason: MMR vaccine causes autism
+
+Tweet: @Andreas_Wailzer From the very man that ran the huge MMR vaccine push but didn't get his own son vaccinated until there was a huge public outcry lol. You can't make it up with these.
+Stance: unclear, Reason: None
+
+Tweet: @FatEmperor #TonyBlair who refused to disclose his child MMR vaccination status during the autism scandals in the 90s to protect his childs PRIVACY. #WEF23 slavering us all 
+Stance: negative, Reason: MMR vaccine causes autism
+
+Tweet: @trace4fl @LynnSailor @alex_loenhart @stkirsch I've seen vaxxed 20 times. I've debunked in 20 times. It's 100% propaganda. RT @thereal_truther: @Cernovich @delbigtree (#17) If Brian Hooker is such a honest guy why did he lie about his own son's autism? In court documents he was forced to admit signs of autism showed up before the MMR vaccine. Also, his doctors and own wife admitted the same.
+Stance: negative, Reason: MMR vaccine causes autism
+
+Tweet: @nwo_to His kids never had the MMR jab either - weapons of mass destruction and all that . . . .
+Stance: unclear, Reason: None
+
+Tweet: MMR II (Measles, Mumps, Rubella) - Tested in eight small unblinded clinical trials. All of the trials had one or more control groups receiving either the predecessor MMR vaccine, a measles-rubella (MR) vaccine, or a single-dose of the rubella vaccine.
+Stance: unclear, Reason: None
+
+Tweet: RT @fadathocht: @nbreavington Family friends: Perfect baby. Development normal. Interacting. Way home from MMR vaccine screamed at the top of lungs. Screamed for hours. Development stopped dead. Middle aged now. Never worked/married. They got compensation. (Dad was lawyer).
+Stance: unclear, Reason: None
+
+Tweet: RT @PaulDakers1: @nwo_to His kids never had the MMR jab either - weapons of mass destruction and all that . . . .
+Stance: unclear, Reason: None
+
+Tweet: @nbreavington https://twitter.com/bandygit/status/1611100482684223489?s=46&t=ZL6DapXa7zj4J88tVU_9VA RT @BandyGit: Dr Kathryn Edwards admits to lawyer Aaron Siri that the MMR vaccine trials were not designed to check if they caused autism. https://thehighwire.com/videos/the-deposition-of-the-godmother-of-vaccines-dr-kathryn-edwards/
+Stance: negative, Reason: MMR vaccine causes autism
+
+Tweet: Just a little reminder.... Blair condemns media intrusion over MMR jab https://www.independent.co.uk/life-style/health-and-families/health-news/blair-condemns-media-intrusion-over-mmr-jab-9156329.html
+Stance: unclear, Reason: None
+
+Tweet: @goddeketal I have long been a bit sympathetic to OG anti vaxxers who were against the MMR vaccine bc of fears that it caused autism There was data that CDC suppressed (look up backstory with Julie Gerberding) She killed a controversial study and Merck hired her to become head of vaccines
+Stance: negative, Reason: MMR vaccine causes autism
+
+Tweet: @Pitchforks4Sale The MMR vaccine has been around for a long long time. I don't think you need to worry about this one. The lack of vaccination makes the possibility of contracting measles a lot higher than it used to be and that's a bigger risk than anything from the MMR shot.
+Stance: unclear, Reason: None
+
+Tweet: @Pitchforks4Sale One really needs to question how much good most vaccines are doing. Children are clearly over vaccinated now and there are a lot more allergies and autism. The MMR vaccine has a bad rep. At this point I would just say no.
+Stance: negative, Reason: MMR vaccine causes autism
+
+Tweet: THE MMR VACCINE COULD BE ORAL..TICE. YOUR ADVOCACY TO INJECT INFANT ..DISGUSTING IF YOU BELIEVE EVIDENCE OF SPECIFICIF INJECTED BOASTS OF BLOOD CHANGE..THE CENTRE. OF JUSTICE CONCERN .A SAFER ROUTE HAS ALWAYS EXISTED..YOU FAIL TO IDENTIFY..IN ANY WAY RT @TalkTV: 🔸 Is Boris Johnson's appointment of someone who allegedly helped him get an £800k loan proof of his corruption? 🔸 Do you believe HMRC would allow you to clear your back taxes just like Nadhim Zahawi? 🔸 The latest royal drama with @KinseySchofield @Cristo_Radio       
+Stance: negative, Reason: None
+
+Tweet: @nbreavington The cases of child autism is rising in line with the uptake of the MMR vaccine worldwidehow no one can see the link between the two is dumbfounding child autism has exploded since the introduction of the vaccine.
+Stance: negative, Reason: MMR vaccine causes autism
+
+Tweet: @Pitchforks4Sale late to this but if 1 person sees this then great. Delaying MMR is an option. If outbreak happens close 2 u vax can be given then. Measles has been treatable for a long time. Why shouldn’t we be given the choice of single shot Measles vax if the option exists?
+Stance: unclear, Reason: None
+
+Tweet: @christopher_jon @EmilyJessieBrya I still got the german measles after the MMR shot. My dr said it was pretty rare but does happen.
+Stance: unclear, Reason: None
+
+Tweet: @goughmadknowmad @garvs_72 @T3MaxxiAlt I dont think so given that many first world countries have stopped using thimerosal and it still occurs. However it is interesting to note despite the MMR vaccine + autism connection being verboten now some researchers still suggest that the MMR vaccine can be a 'trigger'
+Stance: negative, Reason: MMR vaccine causes autism
+
+Tweet: @jbplus4 @happy14U @J_Patriot41 @KellyScaletta @Bluewaveacoming @TomiLahren So polio vaccine smallpox vaccine measles vaccine…youre a no?
+Stance: negative, Reason: MMR vaccine causes polio
+
+Tweet: @RepAndyHarrisMD So Andy you don’t get a flu shot every year? You weren’t required to show proof of having the MMR vaccine. You are a health care worker. Don’t you feel any responsibility to patients health?
+Stance: unclear, Reason: None
+
+Tweet: @CaligulaRedux @stkirsch My nephew was perfectly fine maintaining eye contact playing with other kids until he got his first MMR jab. So sad and devastating to his family. He was diagnosed with Autism 🥲🥲
+Stance: negative, Reason: MMR vaccine causes autism
+
+Tweet: RT @UNICEFEthiopia: Thumbs up for health! 👍 Last year UNICEF and WHO reached over 15 million children with the measles vaccine including this little girl in the Amhara region.
+Stance: unclear, Reason: None
+
+Tweet: @lenaawright I had to go get a measles shot for the job today 🫢 man what?! I am so 
+ ready though
+Stance: unclear, Reason: None
+
+Tweet: RT @TheSecretSarah: Great point raised by Prof Kerrigan on @nicd_sa webinar: Parental consent is important in measles vaccination campaign - it is very important parents sign the consent forms and return them to school timeously.
+Stance: unclear, Reason: None
+
+Tweet: @Keds1250878727 @MichaelPSenger @EricSmithAlan You mean like those articles in the Lancet that purported to show a link between the MMR vaccine and autism? And were completely discredited and only retracted years later?
+Stance: negative, Reason: MMR vaccine causes autism
+
+Tweet: @SpkJayIII My kid got astma after a month following MMR vax at age 3. (30y ago) Fortunately only for a short time 1 year. It made me anti all vax! I am surprized that it was only me. Most parents were ok seeing 30% of kids have asthma!
+Stance: unclear, Reason: None
+
+Tweet: RT @Celesta91883911: Bill Gates said that @ElonMusk's investments in Mars are not a good use of money Gates 67 said it costs only $1,000 to save a life with a measles vaccine He dismissed the idea Musk is a 'philanthropist' but said he might become one https://www.dailymail.co.uk/news/article-11710647/Bill-Gates-slams-Elon-Musks-space-ambitions-waste-money.html
+Stance: positive, Reason: None
